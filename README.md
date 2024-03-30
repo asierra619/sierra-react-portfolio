@@ -2,7 +2,10 @@
 
 ## Description
 
+This is my new portfolio that uses React and Vite, and is deployed to Netlify. <br />
+Within, you will find some of the works that I'm most proud of, with more to come.<br />
 
+I appreciate you taking the time to look at what I've created, and hope that you see what value I will bring to your company.
 
 ## Table of Contents
 
@@ -17,7 +20,8 @@
 
 AS AN employer looking for candidates with experience building single-page applications<br />
 I WANT to view a potential employee's deployed React portfolio of work samples<br />
-SO THAT I can assess whether they're a good candidate for an open position<br />
+SO THAT I can assess whether they're a good candidate for an open position
+
 
 ## Acceptance Criteria
 
@@ -45,24 +49,25 @@ THEN I receive a notification if I have entered an invalid email address<br />
 WHEN I am presented with the Resume section<br />
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies<br />
 WHEN I view the footer<br />
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) <br />
-
+THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
 ## Usage
 
-GitHub Repo - 
+GitHub Repo - https://github.com/asierra619/sierra-react-portfolio
 
-![screenshot of Portfolio](.)
+![screenshot of Portfolio](./src/assets/portfolio-screenshot.png)
 
 ## Technologies Used
 
-React, Netlify
+React, Bootstrap, & Netlify
 
 ## License
 
 MIT
 
 ## Credits
+
+Thank you to UCSD and EdX for hosting the Coding Bootcamp that taught me so much. There is definitely more to dive into!<br />
 
 Thank you to the following -<br />
 Bobbi Tarkany - Calendly Tutor
