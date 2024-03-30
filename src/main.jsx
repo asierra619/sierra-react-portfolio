@@ -7,7 +7,6 @@ import Portfolio from './pages/Portfolio';
 import AboutPage from './pages/AboutPage';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './index.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 const router = createBrowserRouter([
   {
