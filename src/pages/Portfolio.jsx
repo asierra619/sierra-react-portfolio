@@ -1,24 +1,62 @@
 import React from "react";
 import reactLogo from '../assets/react.svg'
 import ProjectCard from "../components/ProjectCard";
+import FlowerMoonTea from '../assets/flower-moon-tea.png';
+import Chowtube from '../assets/chowtube.png';
+import TimeForcePizzeria from '../assets/time-force-pizzeria.png';
+import BackendEcomm from '../assets/back-end-ecomm.png';
+import WorkdayScheduler from '../assets/workday-scheduler.png';
+import SocialNetworkAPI from '../assets/social-network-api.png';
 export default function Portfolio() {
   const projects = [
     {
       //title, image, link to deployed, link to git
-      title: 'title',
+      title: 'Flower Moon Tea',
       description: 'descrip',
-      image: reactLogo,
+      image: FlowerMoonTea,
       repoLink: '',
       deployedLink: '',
     },
     {
       //title, image, link to deployed, link to git
-      title: 'title',
+      title: 'Chowtube',
       description: 'descrip',
-      image: reactLogo,
+      image: Chowtube,
       repoLink: '',
       deployedLink: '',
     },
+    {
+      //title, image, link to deployed, link to git
+      title: 'Time Force Pizza',
+      description: 'descrip',
+      image: TimeForcePizzeria,
+      repoLink: '',
+      deployedLink: '',
+    },
+    {
+      //title, image, link to deployed, link to git
+      title: 'Back-End Ecomm',
+      description: 'descrip',
+      image: BackendEcomm,
+      repoLink: '',
+      deployedLink: '',
+    },
+    {
+      //title, image, link to deployed, link to git
+      title: 'Social Network API',
+      description: 'descrip',
+      image: SocialNetworkAPI,
+      repoLink: '',
+      deployedLink: '',
+    },
+    {
+      //title, image, link to deployed, link to git
+      title: 'Workday Scheduler',
+      description: 'descrip',
+      image: WorkdayScheduler,
+      repoLink: '',
+      deployedLink: '',
+    }
   ]
   return (
     <>
